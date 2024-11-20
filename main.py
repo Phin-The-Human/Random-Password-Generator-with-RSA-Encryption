@@ -1,8 +1,3 @@
-# -- Password generator --
-# Choose option:
-# 1: generate password
-# 2: exit the program
-# Your choice:
 import random as r
 from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.primitives.asymmetric.padding import OAEP, MGF1
