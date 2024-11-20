@@ -115,4 +115,4 @@ This project is licensed under the MIT License.
 # Check It Out
 
 Feel free to explore, give feedback, or contribute to the project!
-🔗 GitHub Repository
+🔗 https://github.com/Phin-The-Human/Random-Password-Generator-with-RSA-Encryption.git
