@@ -1,0 +1,14 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Environment files
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
